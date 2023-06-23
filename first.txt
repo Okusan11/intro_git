@@ -4,3 +4,4 @@ Gitの練習をしていきます
 ・git commit
 second.txtを追加
 ・git status
+・git diff
